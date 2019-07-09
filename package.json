@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/ensure-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function to ensure a directory path exists and return a Promise",
   "keywords": [
     "utilities",
