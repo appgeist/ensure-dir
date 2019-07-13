@@ -18,6 +18,10 @@ await ensureDir("/folder/to/store/lotsa/files");
 
 @appgeist/ensure-dir should be slightly more efficient than [mkdirp-promise](https://www.npmjs.com/package/mkdirp-promise) because it checks whether the specified path exists before trying to create it.
 
+## License
+
+The [ISC License](LICENSE).
+
 [npm-image]: https://img.shields.io/npm/v/@appgeist/ensure-dir.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@appgeist/ensure-dir
 [license-image]: https://img.shields.io/npm/l/@appgeist/ensure-dir.svg?style=flat-square
