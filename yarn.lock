@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@appgeist/eslint-config-base@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@appgeist/eslint-config-base/-/eslint-config-base-1.0.3.tgz#8ce44c6f1191743cbda32856e22b6d66778cfeff"
-  integrity sha512-yeS4997us8Rw04Qi3FVOHFYVq8HA76TL7gVUlmmsuP+EirOk5seyd0aqZoMg6pPhYiuRhPJzmDVtGSRzljTKHg==
+"@appgeist/eslint-config-base@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@appgeist/eslint-config-base/-/eslint-config-base-1.0.5.tgz#34dcde7d706b205e86863a6fa8353fa8ba042ae8"
+  integrity sha512-/Mi/pSiCoLVc5RTMgzuBMz+4PWVJYU0+oRdLMigw3W6ySnPLzl8S/Ybpszg3dWe9u000D+TngdwJQc5kBJZdrg==
   dependencies:
     eslint "^6.0.1"
     eslint-config-airbnb-base "^13.2.0"
