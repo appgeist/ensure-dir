@@ -7,7 +7,7 @@ const mkdirp = require('mkdirp');
  * @param {string} dir
  * @returns {Promise} A promise that fulfills when the operation completes
  */
-module.exports = dir =>
+module.exports = (dir) =>
   new Promise((resolve, reject) => {
     stat(dir, (statErr, stats) => {
       if (!statErr && stats.isDirectory()) {
